@@ -1,4 +1,4 @@
-Instructions to follow to Setup the Project:
+Instructions to setup the Project:
 
 1. Open the Project in IntelliJ or any JAVA IDE
 
